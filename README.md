@@ -23,7 +23,7 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
     <a href="https://telegram.me/marrkmusic"><img alt="marrkmusic" src="https://img.shields.io/badge/marrkmusic-blue.svg?logo=telegram"></a> <br/>
 </ul>
 
-## 🖤 Deploy on Heroku 🖤
+## 👻 Deploy on Heroku 👻
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/malek045/KAKAVCPlayer)
 ------------------------------------------------
 -------------------------------------------------
