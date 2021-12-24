@@ -1,4 +1,4 @@
-<h2 align="center">KAKA VC Bot + Stream Bot</h2>
+<h2 align="center">KAkA♠ VC Bot + Stream Bot</h2>
 <p>
 
 <p align="center">
@@ -24,6 +24,8 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 </ul>
 
 ## 👻 Deploy on Heroku 👻
+# IRON ♡
+# KAkA ♠
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/malek045/KAKAVCPlayer)
 ------------------------------------------------
 -------------------------------------------------
