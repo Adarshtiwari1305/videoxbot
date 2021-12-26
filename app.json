@@ -1,9 +1,9 @@
 {
-  "name": "KAKAVCPlayer Bot",
+  "name": "MAMBA VC STREAM BOT",
   "description": "Open Source bot to stream media trough Telegram Voice Chat. Powered by PyTgCalls and Pyrogram",
-  "logo": "https://te.legra.ph/file/d5f44652b8eefcaeee019.jpg",
-  "keywords": ["KAKAMusic", "MusicBot", "Video-stream", "Videochat", "Voicechat", "Telegram"],
-  "repository": "https://github.com/malek045/KAKAVCPlayer",
+  "logo": "https://telegra.ph/file/ea68644f59bdaf57fd61e.jpg",
+  "keywords": ["MAMBAMUSIC", "MusicBot", "Video-stream", "Videochat", "Voicechat", "Telegram"],
+  "repository": "https://github.com/SUKHPAL443/VCPLAYER",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -29,17 +29,17 @@
     "GROUP_LINK": {
       "description": "your group support link, can use private or public group",
       "required": false,
-      "value": "https://t.me/marrkmusic"
+      "value": "https://t.me/MAMBA_X_SUPPORT"
     },
     "CHANNEL_LINK": {
       "description": "your channel support link, can use private or public channel",
       "required": false,
-      "value": "https://t.me/kakamusic045"
+      "value": "https://t.me/MAMBA_X_SUPPORT"
     },
     "UPSTREAM_REPO": {
       "description": "fill it if you fork from original repo",
       "required": false,
-      "value": "https://github.com/malek045/KAKAVCPlayer"
+      "value": "https://github.com/SUKHPAL443/VCPLAYER"
     },
     "AUTO_LEAVE": {
       "description": "fill it with delay time for leaving group, fill 0 if you do not want to use this feature",
